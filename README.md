@@ -67,7 +67,7 @@ As AI architectures shift toward agent-to-agent autonomous delegation, tradition
 ---
 
 ## 🔒 Live Threat Interception & Mitigation
-<img src="firewall-attack-mitigation.png" width="100%" alt="SwarmIntercept AI Attack Mitigation Interface">
+<img src="proof/multi-agent-execution.png" width="100%" alt="SwarmIntercept AI Attack Mitigation Interface">
 
 ---
 
