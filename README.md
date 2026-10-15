@@ -3,10 +3,7 @@ An enterprise-grade decentralized zero-trust proxy firewall designed to mitigate
 
 # 🛡️ SwarmIntercept AI: Multi-Agent Mesh Firewall
 
-[![Python Version](https://shields.io)](https://python.org)
-[![Framework](https://shields.io)](https://streamlit.io)
-[![LLM Engine](https://shields.io)](https://google.dev)
-[![Security Level](https://shields.io)]()
+<img src="https://shields.io" alt="Python Version"> <img src="https://shields.io" alt="Framework"> <img src="https://shields.io" alt="LLM Engine"> <img src="https://shields.io" alt="Security Level">
 
 **SwarmIntercept AI** is a decentralized, real-time zero-trust security proxy designed to defend Multi-Agent Systems (MAS) against advanced **Indirect Prompt Injections**, **Adversarial Cryptographic Steganography**, and **Lateral Multi-Hop Collusion** attacks.
 
