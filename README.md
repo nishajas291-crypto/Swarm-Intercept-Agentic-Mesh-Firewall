@@ -1,13 +1,17 @@
-# Swarm-Intercept-Agentic-Mesh-Firewall
-An enterprise-grade decentralized zero-trust proxy firewall designed to mitigate indirect prompt injections, adversarial steganography, and multi-hop collusion within agentic AI networks using Google Gemini.
-
 # 🛡️ SwarmIntercept AI: Multi-Agent Mesh Firewall
+
+An enterprise-grade decentralized zero-trust proxy firewall designed to mitigate indirect prompt injections, adversarial steganography, and multi-hop collusion within agentic AI networks using Google Gemini.
 
 <img src="https://shields.io" alt="Python Version"> <img src="https://shields.io" alt="Framework"> <img src="https://shields.io" alt="LLM Engine"> <img src="https://shields.io" alt="Security Level">
 
 **SwarmIntercept AI** is a decentralized, real-time zero-trust security proxy designed to defend Multi-Agent Systems (MAS) against advanced **Indirect Prompt Injections**, **Adversarial Cryptographic Steganography**, and **Lateral Multi-Hop Collusion** attacks.
 
 As AI architectures shift toward agent-to-agent autonomous delegation, traditional prompt defenses fail. SwarmIntercept establishes a dual-layer state validation gateway directly into the token ingestion pipeline, successfully isolating compromised execution threads before they breach backend enterprise data arrays.
+
+---
+
+## 🖥️ Live Application Dashboard
+<img src="swarm-intercept-dashboard.png" width="100%" alt="SwarmIntercept AI Security Console Dashboard">
 
 ---
 
@@ -62,6 +66,11 @@ As AI architectures shift toward agent-to-agent autonomous delegation, tradition
 
 ---
 
+## 🔒 Live Threat Interception & Mitigation
+<img src="firewall-attack-mitigation.png" width="100%" alt="SwarmIntercept AI Attack Mitigation Interface">
+
+---
+
 ## 🚀 Core Features
 
 * **Real-Time Dual-Layer Inference Guard:** Combines fast execution graph metadata validation with strict downstream prompt boundary enforcement.
@@ -75,14 +84,16 @@ As AI architectures shift toward agent-to-agent autonomous delegation, tradition
 ### 1. Clone the Architecture Repository
 ```bash
 git clone https://github.com
-cd swarm-intercept-ai
+cd swarm-intercept-mesh-firewall
 ```
 
-### 2. Establish System Dependencies
-Install the required micro-packages via pip:
+### 2. Establish System Dependencies & Python Runtime
+Install the required architectural packages and verify your environment version matrix using the configuration files:
 ```bash
-pip install streamlit google-genai
+# Installs dependencies listed in requirements.txt (Streamlit & Google GenAI)
+pip install -r requirements.txt
 ```
+> *Note: This deployment environment utilizes the specifications defined in `runtime.txt` (Python 3.13.0).*
 
 ### 3. Configure Your Environment Verification Matrix
 Acquire an API access token from **Google AI Studio** and expose it to your active environment shell:
@@ -119,4 +130,3 @@ streamlit run app.py
 
 ## 📜 License
 Distributed under the MIT License. See `LICENSE` for more details.
-
