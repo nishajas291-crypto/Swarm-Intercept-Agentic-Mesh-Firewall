@@ -11,7 +11,7 @@ As AI architectures shift toward agent-to-agent autonomous delegation, tradition
 ---
 
 ## 🖥️ Live Application Dashboard
-<img src="proof/multi-agent-execution.png" width="100%" alt="swarm-intercept-dashboard">
+<img src="proof/firewall-console-interface.png" width="100%" alt="swarm-intercept-dashboard">
 
 ---
 
